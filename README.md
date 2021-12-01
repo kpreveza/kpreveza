@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Konstantina ( @kpreveza ).
-- 👀 I’m in my final year of studying Physics in Aristotle University of Thessaloniki.
+- Bachelor's degree in Physics, Aristotle University of Thessaloniki
+- MSc student, Medical Physics and Radiation Physics, National and Kapodistrian University of Athens
 
 
