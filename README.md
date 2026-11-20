@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Konstantina ( @kpreveza ).
-- Bachelor's degree in Physics, Aristotle University of Thessaloniki
-- MSc, Medical Physics and Radiation Physics, National and Kapodistrian University of Athens
-- PhD candidaet, National and Kapodistrian University of Athens
+### Hi, I'm Konstantina 👋
 
+PhD Candidate in Medical Informatics at the National and Kapodistrian University of Athens (NKUA), with a background in Physics and Medical Physics.
+
+- **Focus areas:** Machine Learning, Deep Learning, Signal & Data Analysis, Explainable AI (XAI).
+- **Tools:** Python (`NumPy`, `SciPy`, `Pandas`, `Scikit-Learn`, `PyTorch`), SQL.
+- **Publications:** Peer-reviewed journal articles and conference proceedings in medical informatics, surgical skill modeling, and luminescence analysis.
